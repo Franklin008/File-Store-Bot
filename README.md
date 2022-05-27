@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" alt="Ajax-Extra-FeaturesLogo">
+  <img src="assets/logo.png" alt="ms-moviesstuff-FeaturesLogo">
 </p>
 <h1 align="center">
   <b>𝙵𝙸𝙻𝙴 𝚂𝚃𝙾𝚁𝙴 𝙱𝙾𝚃</b>
