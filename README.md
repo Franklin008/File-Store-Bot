@@ -2,18 +2,10 @@
   <img src="assets/logo.png" alt="Ajax-Extra-FeaturesLogo">
 </p>
 <h1 align="center">
-  <b>𝙾𝙿-𝙵𝙸𝙻𝙴 𝚂𝚃𝙾𝚁𝙴 𝙱𝙾𝚃</b>
+  <b>𝙵𝙸𝙻𝙴 𝚂𝚃𝙾𝚁𝙴 𝙱𝙾𝚃</b>
 </h1>
 <div align="center">
 
-
-<a href=https://youtu.be/kB9TkCs8cX0><img align="center" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /></a>
-<a href=https://www.instagram.com/_aadil_m__><img align="center" alt="Instagram" width="22px" src="https://unpkg.com/simple-icons@v6/icons/instagram.svg" /></a>
-<p align="center">
-
-
-<a href="https://t.me/Aadhi011"><img alt="Telegram" src="https://img.shields.io/badge/Aadhi-2CA5E0?style=for-the-badge&logo=telegram&logoColor=green"/></a>
-</p>
 </div>
 Telegram Bot to store Posts and Documents and it can Access by Special Links.
 I Guess This Will Be Usefull For Many People.....😇. 
@@ -33,16 +25,13 @@ I Guess This Will Be Usefull For Many People.....😇.
 ##
 ### Installation
 #### Deploy on Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Aadhi000/OP-Files-Store-Bot)</br>
-<a href="https://youtube.com/channel/UCf_dVNrilcT0V2R--HbYpMA">
-  <img src="https://img.shields.io/badge/Subscribe-black?logo=youtube" width="149">
-</a><br>
-**Check This Tutorial Video on YouTube for any Help**<br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)]([https://heroku.com/deploy?template=(https://github.com/Franklin008/File-Store-Bot)
+  
 
 #### Deploy in your VPS
 ````bash
-git clone https://github.com/Aadhi000/OP-Files-Store-Bot
-cd File-Sharing-Bot
+git clone (https://github.com/Franklin008/File-Store-Bot)
+cd File-Store-Bot
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
 python3 main.py
@@ -94,6 +83,5 @@ python3 main.py
 * `{previouscaption}` - Original Caption
 
 
-## Support   
-Join Our [Telegram Group](https://www.telegram.dog/OpusTechz) For Support/Assistance And Our [Channel](https://www.telegram.dog/OpusTechz) For Updates.   
+   
    
